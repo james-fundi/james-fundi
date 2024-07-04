@@ -39,10 +39,7 @@ New repository. Stats are currently unvailable.
 ## Connect with me
 
 <p align="left">
-<a href="https://twitter.com/mutheealam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mutheealam" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/alex-njagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-steve-906242116" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mutheeal.am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="steve kadih p" height="30" width="40" /></a>
-<a href="https://alexnjagi.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mutheeal.am" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/james-fundi-njagi-985980317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-steve-906242116" height="30" width="40" /></a>
 </p>
 
 <!---
