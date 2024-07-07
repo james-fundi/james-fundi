@@ -3,7 +3,7 @@
 
 ## About Me
 
-I do both front-end and back-end. My cool dev buddies call me a full-stack developer for some reason. I'm currently a freelancer, open for some front-end work hiring. So if you are hiring, you know, watch out!! Haha, sorry. Through this profile you will get a clear picture of what I do. So buckle up, let&#39;s do this!
+I do both front-end and back-end. My cool dev buddies call me a full-stack developer for some reason. I'm currently a freelancer, open for some front-end work hiring. So if you are hiring, you know, watch out!! Haha. Through this profile you will get a clear picture of what I do. So buckle up, let&#39;s do this!
 
 - 🌱 I’m currently polishing up my small project(s) skills Eg. (Next js, Tailwind(Shadcn), Sanity.Io).
 - 💞️ Also looking to collaborate and lend a hand on any project within my domain.
