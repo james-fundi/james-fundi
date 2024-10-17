@@ -1,13 +1,13 @@
 <div align="center"><img src="https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149052117.jpg" height="350px"></div>
-<h1 align="center">James Fundi here. Greetings &amp; Salutations👋</h1>
+<h1 align="center">James Fundi Here. Greetings &amp; Salutations👋</h1>
 
 ## About Me
 
-I do both front-end and back-end. My cool dev buddies call me a full-stack developer for some reason. I'm currently a freelancer, open for some front-end work hiring. So if you are hiring, you know, watch out!! Haha. Through this profile you will get a clear picture of what I do. So buckle up, let&#39;s do this!
+I am a Full-Stack Developer, currently a freelancer, open to Front-end / Back-end / Full-stack hiring. So if you are hiring, you know, email me / Whats App me. Through this profile you will get a clear picture of what I do. So buckle up, let&#39;s do this!
 
-- 🌱 I’m currently polishing up my small project(s) skills Eg. (Next js, Tailwind(Shadcn), Sanity.Io).
+- 🌱 I’m currently doing freelance projects with skills such as: (Next js, Tailwind(Shadcn), Zustand, Sanity.Io, Flask).
 - 💞️ Also looking to collaborate and lend a hand on any project within my domain.
-- 📫 Let&#39;s have a chat. Email me at: **info.jamesnjagi@gmail.com**
+- 📫 Let&#39;s have a chat. Email me at: **info.jamesnjagi@gmail.com** OR Whats App me at: **+254-793-627380**
 
 ## Languages, Databases, & Technologies
 
