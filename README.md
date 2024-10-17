@@ -34,7 +34,7 @@ I am a Full-Stack Developer, currently a freelancer, open to Front-end / Back-en
 
 ## Github stats
 
-New repository. Stats are currently unvailable.
+Stats are currently unvailable.
 
 ## Connect with me
 
