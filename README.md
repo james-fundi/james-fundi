@@ -32,6 +32,14 @@ I am a Full-Stack Developer, currently a freelancer, open to Front-end / Back-en
 ![](https://img.shields.io/badge/Design-Gimp-informational?style=flat&logo=gimp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Design-PhotoShop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=2bbc8a)
 
+
+## Completed projects
+
+- [Savara Luxe Safari] (https://savaraluxe.comm)
+- [RoamEasy Travel and Safari Ltd] (https://roameasytravel.comm)
+- [Cormorant Tours] (https://cormoranttours.com)
+- [Giraffe Ambassadors] (https://giraffeambassadors.com)
+
 ## Github stats
 
 Stats are currently unvailable.
